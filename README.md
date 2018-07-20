@@ -1,5 +1,5 @@
 # FYAD_ARMA
-Repo for work on FYAD Arma servers. Check the readme for info on versioning syntax, folder structure, and change logs.
+Repo for work on FYAD Arma servers. Check the readme for info on versioning syntax and change logs.
 
 ==Versioning Info==  
 Versions should be numbered with the following syntax: X.Y.Z  
